@@ -1,0 +1,7 @@
+![Adblock Plus 2.0]
+! Checksum: AEITfQ6mho1rp3GkcLvKeg
+! Title: Norsk adblockliste
+! Description: norsk supplement for EasyList
+! Version: 1.0.0.1
+! TimeUpdated: 2017-12-04T11:19:37+00:00
+! Expires: 2 days (update frequency)

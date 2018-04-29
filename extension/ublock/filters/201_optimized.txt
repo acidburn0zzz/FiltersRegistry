@@ -1,0 +1,7 @@
+![Adblock Plus 2.0]
+! Checksum: BXQtJlNJI6hyP7EdPlBwXA
+! Title: Czech List
+! Description: čeština
+! Version: 1.0.0.3
+! TimeUpdated: 2017-12-04T11:19:37+00:00
+! Expires: 2 days (update frequency)

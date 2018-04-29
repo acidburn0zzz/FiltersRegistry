@@ -1,0 +1,7 @@
+![Adblock Plus 2.0]
+! Checksum: iG9NTl6tqRgEQOoy+LZOvg
+! Title: Prebake
+! Description: filters obtrusive EU cookie law notices
+! Version: 1.0.1.15
+! TimeUpdated: 2017-12-04T11:19:37+00:00
+! Expires: 2 days (update frequency)
